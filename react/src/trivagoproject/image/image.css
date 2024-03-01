@@ -1,0 +1,22 @@
+.carousel-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .carousel-images {
+    display: flex;
+  }
+  
+  .carousel-images img {
+    width: 300px; /* Adjust image size as needed */
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  button {
+    background: transparent;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  

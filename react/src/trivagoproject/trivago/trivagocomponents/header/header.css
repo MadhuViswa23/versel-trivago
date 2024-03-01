@@ -1,0 +1,280 @@
+.header-container {
+    background-color: #f8f9fa; 
+    border-radius: 10px;
+    padding: 40px;
+   
+    margin: 10px 2px;
+ 
+}
+
+.header-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: black; 
+   position: absolute;
+   top:100px;
+   left:100px;
+    font-weight: bold;
+}
+
+.header-subtitle {
+    position: absolute;
+    top:140px;
+    left:100px;
+    font-size: 18px;
+    color: #666; 
+}
+
+.headerSearch {
+    position: absolute;
+    top:100px;
+    height: 30px;
+    background-color: white;
+    border: 3px solid #ebe7dc;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto; 
+    padding: 5px 0px;
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    width: 100px;
+    height: 60px;
+   
+}
+
+.headerBtn {
+    background-color: #007bff; 
+    color: white;
+    width: 120px;
+    border: none;
+    border-radius: 5px; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+}
+
+.headerBtn:hover {
+    background-color: #0056b3;
+}
+
+.headerIcon {
+    color: lightgray;
+}
+
+.headerSearchItem {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  
+}
+
+.headerSearchInput {
+    border: none;
+    outline: none;
+}
+
+.headerSearchText {
+    color: rgb(180, 179, 179);
+    cursor: pointer;
+}
+
+.date {
+    position: absolute;
+    top: 250px;
+    z-index: 2;
+}
+
+.options {
+    z-index: 2;
+    position: absolute;
+    top: 250px;
+    right: 525px;
+    background-color: white;
+    color: gray;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 0.4);
+}
+
+.optionItem {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.optionCounterNumber {
+    border: none;
+}
+
+.optionCounter {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    font-size: 12px;
+    color: black;
+}
+
+.optionCounterButton {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #0071c2;
+    color: #0071c2;
+    background-color: white;
+}
+
+.optionCounterButton:disabled {
+    cursor: not-allowed;
+}
+
+/* Media query for screens smaller than 575.98px (extra small devices) */
+@media (max-width: 575.98px) {
+    
+.headerSearch {
+    height: 30px;
+    background-color: white;
+    border: 3px solid #ebe7dc;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto; 
+    padding: 5px 0px;
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    width: 100px;
+    height: 60px;
+   
+}
+    .header-container {
+        background-color: #0f559c; 
+        border-radius: 10px;
+        padding: 40px;
+        max-width: 1024px; 
+        margin: 10px 2px;
+       
+    }
+    .header-title {
+        font-size: 24px;
+        margin-bottom: 10px;
+        color:white;
+       
+        font-weight: bold;
+    }
+    
+    .header-subtitle {
+        font-size: 18px;
+        color: wheat; 
+    }
+    .headerSearchInput {
+        width: 50%;
+    }
+
+    .date {
+        top: 250px;
+    }
+
+    .options {
+        top: 350px;
+        
+       
+       
+    }
+}
+
+/* Media query for screens between 576px and 767.98px (small devices) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .headerSearchInput {
+        width: 100px;
+    }
+   
+    .date {
+        top: 450px;
+    }
+
+    .options {
+        top: 250px;
+        right: auto;
+        left: 50%;
+        top:400px;
+        transform: translateX(-50%);
+    }
+    .header-container {
+        background-color: #0f559c; 
+        border-radius: 10px;
+        padding: 40px;
+        max-width: 1024px; 
+        margin: 10px 2px;
+       
+    }
+    .header-title {
+        font-size: 24px;
+        margin-bottom: 10px;
+        color:white;
+       
+        font-weight: bold;
+    }
+    
+    .header-subtitle {
+        font-size: 18px;
+        color: wheat; 
+    }
+}
+
+/* Media query for screens between 768px and 991.98px (medium devices) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* Adjust styles as needed */
+    .headerSearchInput {
+        width: 500px;
+    }
+   
+    .date {
+        top: 250px;
+    }
+
+    .options {
+        top: 250px;
+        right: auto;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+}
+
+/* Media query for screens between 992px and 1199.98px (large devices) */
+
+  
+  
+ 
+ 
+  
+  @media (max-width: 768px) {
+    /* Adjust styles for smaller screens */
+    .header-title {
+      font-size: 19px;
+    }
+  
+    .header-subtitle {
+      font-size: 14px;
+    }
+  
+    .headerSearchItem {
+      margin-bottom: 10px;
+    }
+  
+    .options {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+  
+    .optionItem {
+      margin-bottom: 10px;
+    }
+  }
+  
+

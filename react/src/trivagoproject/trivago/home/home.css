@@ -1,0 +1,27 @@
+.homeContainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:30px;
+}
+.homeTitle{
+    margin:20px 140px  ;
+    padding:30px;
+   max-width: fit-content;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+   
+}
+.homeTitles{
+    /* position: absolute;
+    top:1050px; */
+    margin:20px 140px  ;
+    padding:30px;
+    width: fit-content;
+    /* width:1024px; */
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}

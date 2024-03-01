@@ -1,0 +1,47 @@
+.com {
+    display: flex;
+
+    justify-content: center;
+ 
+  }
+  .f{
+  
+   margin-top: 0px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    z-index: 1;
+  }
+  .com img {
+    margin-right: 20px; /* Adjust this value to control the gap between images */
+  }
+  
+
+/* .com{
+    margin: 30px;
+}
+
+.ri-vimeo-line{
+    gap:3px;
+color:#17bf9e;
+}
+.ri-pinterest-line{
+    color:#17bf9e;
+    gap:3px;
+}
+.ri-dribbble-line{
+    color:#17bf9e;
+    gap:3px;
+}
+.ri-apple-fill{
+    color:#17bf9e;
+    gap:3px;
+}
+.ri-finder-fill{
+    color:#17bf9e;
+    gap:3px;
+}
+.ri-google-fill{
+    color:#17bf9e;
+    gap:3px;
+} */
