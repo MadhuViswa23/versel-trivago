@@ -1,4 +1,43 @@
 ﻿# versel-deployment-fullstack
+Frontend:
+
+Welcome to the Trivago frontend repository! This repository contains all the code related to the frontend of the Trivago website. Here's a quick overview of what you'll find:
+
+Folder Structure:
+
+src: Contains the source code for the frontend application.
+public: Contains the static assets for the frontend application.
+Technologies Used:
+
+React: We use React.js as the main JavaScript library for building user interfaces.
+CSS: Styles are written in CSS to enhance the visual appeal of the application.
+Axios: We use Axios for making HTTP requests to our backend services.
+React Router: For handling routing within the application.
+Functionality:
+
+Search: Users can search for hotels based on location, dates, and other preferences.
+Listings: Display of hotel listings with relevant information and images.
+Translation: Integration of a translator to support multiple languages.
+Backend:
+
+Welcome to the Trivago backend repository! This repository contains all the code related to the backend services of the Trivago website. Here's a brief overview:
+
+Folder Structure:
+
+src: Contains the source code for the backend application.
+config: Configuration files for setting up the backend environment.
+models: Database models for defining the structure of our data.
+controllers: Controllers to handle the business logic of the application.
+Technologies Used:
+
+Node.js: We use Node.js as the runtime environment for running our backend server.
+Express.js: Express is used as the web application framework for Node.js.
+
+Functionality:
+
+Authentication: Users can register, log in, and manage their accounts securely.
+Hotel Management: CRUD operations for managing hotel data.
+Translation Services: Backend support for language translation services.
 
 ![Screenshot (335)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/2cefe18e-9fdf-48c9-a745-54becb3a2c80)
 
