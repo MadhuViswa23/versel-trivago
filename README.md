@@ -1,4 +1,4 @@
-﻿# versel-deployment-fullstack
+TRIVAGO WEBSITE
 Frontend:
 
 Welcome to the Trivago frontend repository! This repository contains all the code related to the frontend of the Trivago website. Here's a quick overview of what you'll find:
@@ -62,6 +62,9 @@ Translation Services: Backend support for language translation services.
 ![Screenshot (351)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/864ded37-7112-4cdb-b8de-0d429f067308)
 ![Screenshot (352)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/c2022b6b-5b68-4f98-a6f4-6d6ec8b89da0)
 ![Screenshot (353)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/8c4a381a-ee2d-4a72-9cfb-cd464314ec2a)
+![Screenshot (364)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/aade88c2-f75c-40ca-bee8-12c5b80d01e7)
+![Screenshot (365)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/220727b3-58f9-4b65-bd85-614df73d9262)
+
 ![Screenshot (354)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/c8dcfe37-46b9-4761-a7f5-2542d1cf5a86)
 ![Screenshot (355)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/9ff4922b-6df4-4c6a-b819-4be457dd5cf7)
 ![Screenshot (356)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/26e5364b-0588-421f-b5b4-f1eaccf3c175)
