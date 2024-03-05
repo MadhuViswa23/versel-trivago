@@ -1,0 +1,18 @@
+.info {
+    margin: 20px;
+    padding:20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .column-left,
+  .column-right {
+    width: 45%; /* Adjust the width of each column as needed */
+  }
+  
+  /* Add margin between rows */
+  .column-left > div + div,
+  .column-right > div + div {
+    margin-top: 20px; /* Adjust as needed */
+  }
+  
