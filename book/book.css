@@ -1,0 +1,278 @@
+
+
+.color-destinations{
+  color: #222;
+  font-size: 30px;
+ }
+ .small-size{
+  font-size: 15px;
+ }
+
+
+.destinations-area .single-destinations {
+  margin-top: 20px;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.destinations-area .single-destinations .thumb {
+  overflow: hidden;
+}
+
+.destinations-area .single-destinations .thumb img {
+  width: 100%;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.destinations-area .single-destinations .details {
+  background: #fff;
+  padding: 20px;
+  
+}
+
+.destinations-area .single-destinations .details h4 {
+  margin-bottom: 10px;
+}
+
+.destinations-area .single-destinations .details .package-list {
+  margin-top: 15px;
+}
+
+.destinations-area .single-destinations .details .package-list li {
+  border-bottom: 2px solid #eee;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+
+.destinations-area .single-destinations .details .package-list li:last-child {
+  border-bottom: none;
+  margin-bottom: 0px;
+}
+
+.destinations-area .single-destinations .details .price-btn {
+  background: #f8b600;
+  color: #222;
+  font-weight: 600;
+  padding: 5px 20px;
+}
+
+.price-btn:hover{
+text-decoration: none;
+outline: 0;
+}
+
+.destinations-area .single-destinations {
+  border: 1px solid rgba(87, 79, 79); /* Black border */
+}
+
+.destinations-area .single-destinations:hover {
+  box-shadow: 0px 10px 30px 0px rgba(60, 64, 143, 0.2); /* Box shadow on hover */
+}
+
+
+.destinations-area .star .checked {
+  color: orange;
+}
+.place{
+  height:80px;
+}
+
+
+
+.destinations-area .single-destinations2 .thumb {
+  overflow: hidden;
+}
+
+.destinations-area .single-destinations2 .thumb img {
+  width: 100%;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.destinations-area .single-destinations2 .details {
+  background: #fff;
+  padding: 20px;
+  
+}
+
+.destinations-area .single-destinations2 .details h4 {
+  margin-bottom: 10px;
+}
+
+.destinations-area .single-destinations2 .details .package-list {
+  margin-top: 15px;
+}
+
+.destinations-area .single-destinations2 .details .package-list li {
+  border-bottom: 2px solid #eee;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+
+.destinations-area .single-destinations2 .details .package-list li:last-child {
+  border-bottom: none;
+  margin-bottom: 0px;
+}
+
+.destinations-area .single-destinations2 .details .price-btn {
+  background: #f8b600;
+  color: #222;
+  font-weight: 600;
+  padding: 5px 20px;
+}
+
+.price-btn:hover{
+text-decoration: none;
+outline: 0;
+}
+
+.destinations-area .single-destinations2 {
+  border: 1px solid blue; /* Black border */
+}
+
+.destinations-area .single-destinations2:hover {
+  box-shadow: 0px 10px 30px 0px rgba(60, 64, 143, 0.2); /* Box shadow on hover */
+}
+
+.destinations-area .single-destinations2:hover {
+  box-shadow: 0px 10px 30px 0px rgba(60, 64, 143, 0.2); /* Box shadow on hover */
+}
+.destinations-area .single-destinations3 .thumb {
+  overflow: hidden;
+}
+
+.destinations-area .single-destinations3 .thumb img {
+  width: 100%;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.destinations-area .single-destinations3 .details {
+  background: #fff;
+  padding: 20px;
+  
+}
+
+.destinations-area .single-destinations3 .details h4 {
+  margin-bottom: 10px;
+}
+
+.destinations-area .single-destinations3 .details .package-list {
+  margin-top: 15px;
+}
+
+.destinations-area .single-destinations3 .details .package-list li {
+  border-bottom: 2px solid #eee;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+
+.destinations-area .single-destinations3 .details .package-list li:last-child {
+  border-bottom: none;
+  margin-bottom: 0px;
+  padding:30px;
+}
+
+.destinations-area .single-destinations3 .details .price-btn {
+  background: #f8b600;
+  color: #222;
+  font-weight: 600;
+  padding: 5px 20px;
+}
+
+.price-btn:hover{
+text-decoration: none;
+outline: 0;
+}
+
+.destinations-area .single-destinations3 {
+  border: 1px solid red; /* Black border */
+}
+
+.destinations-area .single-destinations3:hover {
+  box-shadow: 0px 10px 30px 0px rgba(60, 64, 143, 0.2); /* Box shadow on hover */
+}
+
+.destinations-area .single-destinations3:hover {
+  box-shadow: 0px 10px 30px 0px rgba(60, 64, 143, 0.2); /* Box shadow on hover */
+}
+
+
+.destinations-area .star .checked {
+  color: orange;
+}
+.place{
+  height:80px;
+}
+
+
+
+
+
+.price-btn:hover{
+text-decoration: none;
+outline: 0;
+}
+
+
+
+
+.destinations-area .star .checked {
+  color: orange;
+}
+.place{
+  height:90px;
+  
+}
+.hoverable-span {
+  position: relative;
+}
+
+.arrow-icon {
+  transition: transform 0.3s ease-in-out; 
+  color: salmon; /* Change the color to mild red when hovered */
+  /* Add smooth transition effect */
+}
+
+
+.arrow-icon:hover {
+  color: salmon; /* Change the color to mild red when hovered */
+  transform: translateX(5px); /* Move the icon 5px to the right when hovered */
+}
+.or-text {
+  align-items: center;
+  color: grey; /* Set the text color to grey */
+}
+.small-size{
+  font-size: 15px;
+ }
+.container2 {
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+}
+.bl{
+  color:black
+}
+.or-text {
+  color: grey;
+  margin-right: 10px; /* Adjust as needed */
+}
+
+.arrow-icon {
+  transition: transform 0.3s ease-in-out;
+}
+
+.arrow-icon:hover {
+  color: salmon;
+  transform: translateX(5px);
+}
